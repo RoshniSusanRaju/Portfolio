@@ -44,3 +44,11 @@ body{
   border-radius: 2rem;
   margin-top: 50px;
 }
+
+.about-container h1 {
+  text-decoration: underline;
+}
+
+.about-container p {
+  font-size: 20px;
+}
