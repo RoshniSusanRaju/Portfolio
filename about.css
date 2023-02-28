@@ -6,6 +6,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    gap: 20px;
 }
 
 .first-class {
@@ -38,4 +39,8 @@ body{
   align-items: center;
   flex-direction: column;
   background-color: rgba(255, 255, 255, 0.367);
+  width: 100%;
+  padding: 20px;
+  border-radius: 2rem;
+  margin-top: 50px;
 }
