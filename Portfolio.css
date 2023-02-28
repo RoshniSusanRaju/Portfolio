@@ -1,0 +1,46 @@
+*{
+    background: rgb(104, 118, 131);
+    overflow: hidden;
+  }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
+.first-class {
+    display: flex;
+    justify-content: space-between;
+    font-size: 36px;
+    font-weight: bold;  
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+.first-class a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    padding: 10px 20px;
+    transition: 0.2s ease-in-out;
+    border-radius: 1rem;
+}
+
+.first-class a:hover {
+    background-color: black;
+    color: white;
+}
+.abc{
+    border: 1px solid #090909;
+    border-radius: 8px;
+    margin-top: 55px;
+    
+    }
+.cat{
+    font-size: 22px;
+}
